@@ -15,7 +15,7 @@
               "subpath": "#^-"
             }
           ],
-          "title": "\\\\Dev Team"
+          "title": "Dev Team"
         },
         {
           "type": "group",
@@ -28,7 +28,31 @@
               "subpath": "#^-"
             }
           ],
-          "title": "\\\\personal pages"
+          "title": "personal pages"
+        },
+        {
+          "type": "file",
+          "ctime": 1743902325437,
+          "path": "sortspec.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1743902325437,
+          "path": "readme.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1743902325437,
+          "path": "my-database.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1743902325437,
+          "items": [],
+          "title": "Biz Team"
         }
       ],
       "title": "sortspec"
