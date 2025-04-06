@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Dev Team/Frontpage.md",
+                    "file": "personal pages/장승원.md",
                     "mode": "source",
                     "source": true,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Frontpage"
+                  "title": "장승원"
                 }
               }
             ]
@@ -123,17 +123,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev Team/Frontpage.md",
+                "file": "personal pages/장승원.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Frontpage"
+              "title": "Backlinks for 장승원"
             }
           },
           {
@@ -197,12 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9d81945d154806d",
+  "active": "d05dfc90f5dc1ddb",
   "lastOpenFiles": [
+    "Dev Team/Frontpage.md",
     "personal pages/장승원.md",
     "personal pages",
     "readme.md",
-    "Dev Team/Frontpage.md",
     "Biz Team",
     "Dev Team"
   ]
