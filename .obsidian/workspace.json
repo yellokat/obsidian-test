@@ -11,10 +11,24 @@
             "id": "d9d81945d154806d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dev Team/Frontpage.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Frontpage"
             }
           }
         ]
@@ -167,6 +181,8 @@
   },
   "active": "d9d81945d154806d",
   "lastOpenFiles": [
+    "personal pages/장승원.md",
+    "personal pages",
     "readme.md",
     "Dev Team/Frontpage.md",
     "Biz Team",
