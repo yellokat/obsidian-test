@@ -7,12 +7,6 @@
         {
           "type": "group",
           "ctime": 1743902023300,
-          "items": [],
-          "title": "Biz Team"
-        },
-        {
-          "type": "group",
-          "ctime": 1743902023300,
           "items": [
             {
               "type": "file",
@@ -21,7 +15,7 @@
               "subpath": "#^-"
             }
           ],
-          "title": "Dev Team"
+          "title": "\\\\Dev Team"
         },
         {
           "type": "group",
@@ -34,19 +28,7 @@
               "subpath": "#^-"
             }
           ],
-          "title": "personal pages"
-        },
-        {
-          "type": "file",
-          "ctime": 1743902023300,
-          "path": "my-database.md",
-          "subpath": "#^-"
-        },
-        {
-          "type": "file",
-          "ctime": 1743902023300,
-          "path": "readme.md",
-          "subpath": "#^-"
+          "title": "\\\\personal pages"
         }
       ],
       "title": "sortspec"
